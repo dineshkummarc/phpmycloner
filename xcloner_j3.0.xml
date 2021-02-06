@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="component" version="3.0" method="upgrade">
     <name>XCloner-BackupandRestore</name>
-    <version>3.5</version>
+    <version>3.6</version>
     <license>GNU/GPL</license>
     <author>XCloner.com</author>
     <authoremail>info@xcloner.com</authoremail>
     <authorurl>http://www.xcloner.com</authorurl>
-    <creationDate>Mar 2014</creationDate>
-    <copyright>XCloner.com</copyright>
+    <creationDate>Feb 2021</creationDate>
+    <!-- <copyright>XCloner.com</copyright> -->
+    <copyright> </copyright>
     <description><![CDATA[
       <h2>XCloner Backup&Restore Utility</h2>
       <pre>XCloner is a tool that will help you manage your website backups, generate/restore/move so your website will be always secured!
