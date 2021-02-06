@@ -161,10 +161,6 @@ d.add(841,840,'&nbsp;<?php echo LM_MENU_View_backups;?>','index2.php?option=com_
 d.add(842,840,'&nbsp;<?php echo LM_MENU_Generate_backup;?>','index2.php?option=com_cloner&task=confirm','','','images/wizardsm.png');
 d.add(843,840,'&nbsp;<?php echo LM_MENU_Restore_backup;?>','index2.php?option=com_cloner&task=restore','','','images/wizardsm_restore.gif');
 
-d.add(830,0,'&nbsp;<?php echo LM_MENU_SUPPORT;?>','','','','images/support.png','images/support.png');
-
-d.add(820,0,'&nbsp;<?php echo LM_MENU_Documentation;?>','','','','images/help.png','images/help.png');
-
 document.write(d);
 
 //-->
