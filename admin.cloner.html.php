@@ -162,8 +162,6 @@ d.add(842,840,'&nbsp;<?php echo LM_MENU_Generate_backup;?>','index2.php?option=c
 d.add(843,840,'&nbsp;<?php echo LM_MENU_Restore_backup;?>','index2.php?option=com_cloner&task=restore','','','images/wizardsm_restore.gif');
 
 d.add(830,0,'&nbsp;<?php echo LM_MENU_SUPPORT;?>','','','','images/support.png','images/support.png');
-d.add(831,830,'&nbsp;<?php echo LM_MENU_FORUM;?>','http://www.xcloner.com/support/forums/','','_blank','images/forum.png','images/forum.png');
-d.add(832,830,'&nbsp;<?php echo LM_MENU_WEBSITE;?>','http://www.xcloner.com','','_blank','images/website.png','images/website.png');
 
 d.add(820,0,'&nbsp;<?php echo LM_MENU_Documentation;?>','','','','images/help.png','images/help.png');
 
