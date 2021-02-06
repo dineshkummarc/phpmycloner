@@ -83,9 +83,6 @@ $script_dir = str_replace("administrator/components/com_xcloner-backupandrestore
 $_CONFIG['backup_path'] = $script_dir;
 $_CONFIG['clonerPath'] = realpath($script_dir."/administrator/backups");
 $_CONFIG['clonerPath'] = str_replace("\\","/", $_CONFIG['clonerPath']);
-
-
 $_CONFIG['mosConfig_live_site']=$_SERVER['HTTP_HOST'];
-
 
 ?>
