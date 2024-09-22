@@ -7,4 +7,5 @@ XCloner is a PHP/Mysql backup and restore application that is able to run standa
 * check the main configuration file where you would be able to edit the Backup Start Path, Backup Store Path and the Mysql settings
 * make sure to create a folder called administrator/backups/ inside your configured Backup Store Path parameter
 
+## support
 For further help, please visit xcloner.com
